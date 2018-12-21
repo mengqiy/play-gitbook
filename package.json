@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-theme-api": "^1.1.2"
+    "cryptiles": "^4.1.2",
+    "gitbook-plugin-ga": "^1.0.1",
+    "gitbook-plugin-panel": "^0.0.1",
+    "gitbook-plugin-sequence-diagrams": "^1.1.0",
+    "gitbook-plugin-theme-api": "^1.1.2",
+    "phantomjs-prebuilt": "^2.1.16"
   }
 }
