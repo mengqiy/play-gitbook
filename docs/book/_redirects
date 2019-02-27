@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://mengqiy-play-gitbook.netlify.com/* https://www.onelinetea.com/:splat 301!
+https://github.yaosnacks.com/* https://www.github.com/:splat 301!
